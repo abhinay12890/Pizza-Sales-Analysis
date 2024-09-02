@@ -18,7 +18,7 @@ Orders.csv have date and time columns which are difficult to import.
 Manually creaing custom datatype columms for imorting.
 
 ```sql
-Use your_database_name;
+use your_database_name;
 
 create table if not exists your_database_name.orders (
 order_id int not null primary key,
