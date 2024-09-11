@@ -15,7 +15,7 @@ This repository contains the following files:
 ## Pre-Processing Used
 Orders.csv have date and time columns which are difficult to import.
 
-Manually creaing custom datatype columms for imorting.
+Manually creaing custom datatype columms for importing.
 
 ```sql
 use your_database_name;
